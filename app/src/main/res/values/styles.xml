@@ -1,0 +1,17 @@
+<resources>
+    Base application theme.
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colornaranja</item>
+        <item name="colorPrimaryDark">@color/colorsecundario</item>
+        <item name="colorAccent">@color/colorazul</item>
+
+    </style>
+
+
+    <style name="tema" parent="AppTheme">
+
+        <item name="android:windowBackground">@drawable/tema</item>
+
+    </style>
+
+</resources>

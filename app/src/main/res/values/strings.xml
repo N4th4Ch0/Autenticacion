@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Autenticacion</string>
+
+    <string name="facebook_app_id">577485471117011</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">0f8703581a39b949a27e609030499a69</string>
+
+
+    <string name="prefs_file">com.example.autenticacion.PREFERENCE_FILE_KEY</string>
+</resources>
